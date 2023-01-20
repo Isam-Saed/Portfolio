@@ -175,7 +175,8 @@
    .nb .text-uppercase {
         text-transform: uppercase !important;
        width: 130%;
-        margin-left: -30px;
+        margin-left: -25px;
+        font-size: 20px;
     }
 }
 
